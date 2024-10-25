@@ -26,6 +26,7 @@
 #include <stdlib.h> //for size_t
 #include <vector>   //for std::vector
 #include <string>   //for std::string
+#include <cstdint>  //for gcc13
 #include <utils/vectortypes.h> //for StrVector
 
 class FlatMatrix {
